@@ -1,0 +1,9 @@
+.left{
+    height:100vh;width:20vw;
+    border-right:1px solid #ccc;
+    float:left
+}
+.right{
+    height:100vh;width:80vw;
+    float:left
+}
